@@ -1,0 +1,6 @@
+com\cfsd\mediaservice\repository\MediaRepository.class
+com\cfsd\mediaservice\controller\MediaController.class
+com\cfsd\mediaservice\service\MediaServiceImpl.class
+com\cfsd\mediaservice\MediaMicroserviceApplication.class
+com\cfsd\mediaservice\service\MediaService.class
+com\cfsd\mediaservice\model\MediaEntity.class
